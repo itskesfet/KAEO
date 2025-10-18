@@ -21,6 +21,7 @@
     ├── kaeo.sh               # Wrapper script to run traceroute with sudo
     └── readme.md             # Project description and usage guide
 ```
+![Directories](https://img.shields.io/badge/Directories-Folder-F4C20D?style=for-the-badge&logo=folder&logoColor=white) &nbsp;&nbsp;&nbsp;
 ## Dependencies:
 ```
 C++17 or later — utilizes standard library components such as <vector>, <unordered_map>, and <chrono>.
