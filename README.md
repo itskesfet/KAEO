@@ -3,7 +3,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;&nbsp;&nbsp;
 ![Network Tool](https://img.shields.io/badge/Network_Tool-ICMP-blue?style=for-the-badge&logo=cloud&logoColor=white) &nbsp;&nbsp;&nbsp;
 
-# KAE0 — ## Network Traceroute Tool
+# KAE0 — Network Traceroute Tool
 
 ####  <p align="center">KAE0 is a network troubleshooting tool that traces the path packets take from your computer to a target host, similar to the classic traceroute. It sends ICMP packets with increasing Time-To-Live (TTL) values and measures the Round-Trip Time (RTT) for each hop. It also resolves router IPs to hostnames when possible and color-codes RTTs for easy visualization.<p> 
 **Version:** 01.0
