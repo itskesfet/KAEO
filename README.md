@@ -1,4 +1,4 @@
-![Platform](https://img.shields.io/badge/Platform-Linux-green) ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue) ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen) ![Command-Line](https://img.shields.io/badge/CLI-Tool-orange)
+![Open Source](https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
