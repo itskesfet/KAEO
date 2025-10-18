@@ -29,6 +29,7 @@ libpcap — essential for packet capture (sudo apt install libpcap-dev).
 g++ compiler — for building the program; Make is optional for automated compilation.
 Administrative privileges may be necessary to capture raw ICMP packets.
 ```
+![libpcap](https://img.shields.io/badge/libpcap-PCAP-0A74DA?style=for-the-badge&logo=cloud&logoColor=white) &nbsp;&nbsp;&nbsp;
 ## How to Run:
 ```
     Open a terminal and navigate to the Mtraceroute folder:
