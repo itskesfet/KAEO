@@ -21,6 +21,14 @@
     ├── kaeo.sh               # Wrapper script to run traceroute with sudo
     └── readme.md             # Project description and usage guide
 ```
+## Dependencies:
+```
+C++17 or later — utilizes standard library components such as <vector>, <unordered_map>, and <chrono>.
+Linux / Unix environment — requires POSIX headers including <arpa/inet.h>, <netinet/ip.h>, <netinet/ip_icmp.h>, <sys/socket.h>, <sys/epoll.h>, <fcntl.h>, and <unistd.h>.
+libpcap — essential for packet capture (sudo apt install libpcap-dev).
+g++ compiler — for building the program; Make is optional for automated compilation.
+Administrative privileges may be necessary to capture raw ICMP packets.
+```
 ## How to Run:
 ```
     Open a terminal and navigate to the Mtraceroute folder:
@@ -39,11 +47,3 @@
 ![Wireshark Capture](assets/sharkview.png)
 #### The outgoing ICMP packets are captured in pink, while the replies from intermediate routers (hops) are shown in black.
 
-## Dependencies
-```
-C++17 or later — utilizes standard library components such as <vector>, <unordered_map>, and <chrono>.
-Linux / Unix environment — requires POSIX headers including <arpa/inet.h>, <netinet/ip.h>, <netinet/ip_icmp.h>, <sys/socket.h>, <sys/epoll.h>, <fcntl.h>, and <unistd.h>.
-libpcap — essential for packet capture (sudo apt install libpcap-dev).
-g++ compiler — for building the program; Make is optional for automated compilation.
-Administrative privileges may be necessary to capture raw ICMP packets.
-```
