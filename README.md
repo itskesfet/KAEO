@@ -6,7 +6,8 @@
 ![Traceroute Output](assets/snap.png)
 
 
-Sturcture:
+** Sturcture: **
+```
     Mtraceroute/
     ├── bin/                  # Compiled binary of the traceroute program
     ├── include/              # Header files declaring functions and structures
@@ -14,7 +15,7 @@ Sturcture:
     ├── utils/                # Helper functions and utilities
     ├── kaeo.sh               # Wrapper script to run traceroute with sudo
     └── readme.md             # Project description and usage guide
-
+```
 How to Run:
     Open a terminal and navigate to the Mtraceroute folder:
     1> make
