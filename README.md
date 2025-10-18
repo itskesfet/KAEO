@@ -34,4 +34,8 @@
        > RTT: 13.899ms | 14.115ms | 14.228ms
        > Seq: 1 | Avg RTT: 14.080ms
 ```
+## Wireshark Capture
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Wireshark Capture](assets/sharkview.png)
+#### The outgoing ICMP packets are captured in pink, while the replies from intermediate routers (hops) are shown in black.
+
