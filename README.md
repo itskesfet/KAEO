@@ -1,12 +1,12 @@
 # KAE0 — Network Traceroute Tool
 
-### * <p align="center">KAE0 is a network troubleshooting tool that traces the path packets take from your computer to a target host, similar to the classic traceroute. It sends ICMP packets with increasing Time-To-Live (TTL) values and measures the Round-Trip Time (RTT) for each hop. It also resolves router IPs to hostnames when possible and color-codes RTTs for easy visualization.<p> *
+###  <p align="center">KAE0 is a network troubleshooting tool that traces the path packets take from your computer to a target host, similar to the classic traceroute. It sends ICMP packets with increasing Time-To-Live (TTL) values and measures the Round-Trip Time (RTT) for each hop. It also resolves router IPs to hostnames when possible and color-codes RTTs for easy visualization.<p> 
 **Version:** 01.0
 
 ![Traceroute Output](assets/snap.png)
 
 
-** Sturcture: **
+## Sturcture: 
 ```
     Mtraceroute/
     ├── bin/                  # Compiled binary of the traceroute program
@@ -16,14 +16,16 @@
     ├── kaeo.sh               # Wrapper script to run traceroute with sudo
     └── readme.md             # Project description and usage guide
 ```
-How to Run:
+## How to Run:
+```
     Open a terminal and navigate to the Mtraceroute folder:
     1> make
     2> ./kaeo.sh <target>
-
-Example Output
+```
+## Example Output
+```
     -> Router IP: 192.168.1.1
     ---> Router Name: Unknown
        > RTT: 13.899ms | 14.115ms | 14.228ms
        > Seq: 1 | Avg RTT: 14.080ms
-    
+``` 
