@@ -30,6 +30,8 @@ g++ compiler — for building the program; Make is optional for automated compil
 Administrative privileges may be necessary to capture raw ICMP packets.
 ```
 ## How to Run:
+![Make](https://img.shields.io/badge/Make-ED6C02?style=for-the-badge&logo=gnu-make&logoColor=white) &nbsp;&nbsp;&nbsp;
+![Make](https://img.shields.io/badge/Make-ED6C02?style=for-the-badge&logo=gnu-make&logoColor=white)  &nbsp;&nbsp;&nbsp;
 ```
     Open a terminal and navigate to the Mtraceroute folder:
     1> make
