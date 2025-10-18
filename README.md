@@ -1,7 +1,7 @@
-![Open Source](https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Network Tool](https://img.shields.io/badge/Network_Tool-ICMP-blue?style=for-the-badge&logo=cloud&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=for-the-badge&logo=github&logoColor=white) &nbsp;&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;&nbsp;&nbsp;
+![Network Tool](https://img.shields.io/badge/Network_Tool-ICMP-blue?style=for-the-badge&logo=cloud&logoColor=white) &nbsp;&nbsp;&nbsp;
 
 # KAE0 — Network Traceroute Tool
 
