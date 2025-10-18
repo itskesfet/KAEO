@@ -33,4 +33,5 @@
     ---> Router Name: Unknown
        > RTT: 13.899ms | 14.115ms | 14.228ms
        > Seq: 1 | Avg RTT: 14.080ms
-``` 
+```
+![Wireshark Capture](assets/sharkview.png)
