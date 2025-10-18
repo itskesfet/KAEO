@@ -21,7 +21,7 @@
     ├── kaeo.sh               # Wrapper script to run traceroute with sudo
     └── readme.md             # Project description and usage guide
 ```
-![Directories](https://img.shields.io/badge/Directories-Folder-F4C20D?style=for-the-badge&logo=folder&logoColor=white) &nbsp;&nbsp;&nbsp;
+![Directories](https://img.shields.io/badge/Directories-F4C20D?style=for-the-badge&logo=folder&logoColor=white) &nbsp;&nbsp;&nbsp;
 ## Dependencies:
 ```
 C++17 or later — utilizes standard library components such as <vector>, <unordered_map>, and <chrono>.
@@ -30,7 +30,7 @@ libpcap — essential for packet capture (sudo apt install libpcap-dev).
 g++ compiler — for building the program; Make is optional for automated compilation.
 Administrative privileges may be necessary to capture raw ICMP packets.
 ```
-![Directories](https://img.shields.io/badge/Directories-F4C20D?style=for-the-badge&logo=folder&logoColor=white) &nbsp;&nbsp;&nbsp;
+![libpcap](https://img.shields.io/badge/libpcap-PCAP-0A74DA?style=for-the-badge&logo=cloud&logoColor=white) &nbsp;&nbsp;&nbsp;
 ## How to Run:
 ```
     Open a terminal and navigate to the Mtraceroute folder:
