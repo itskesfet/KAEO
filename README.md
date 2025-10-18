@@ -31,7 +31,7 @@ Administrative privileges may be necessary to capture raw ICMP packets.
 ```
 ## How to Run:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) &nbsp;&nbsp;&nbsp;
-![Make](https://img.shields.io/badge/Make-ED6C02?style=for-the-badge&logo=gnu-make&logoColor=white)  &nbsp;&nbsp;&nbsp;
+![Make](https://img.shields.io/badge/Make-$-ED6C02?style=for-the-badge&logoColor=white) &nbsp;&nbsp;&nbsp;
 ```
     Open a terminal and navigate to the Mtraceroute folder:
     1> make
