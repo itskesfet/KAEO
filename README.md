@@ -1,7 +1,9 @@
 # KAE0 — Network Traceroute Tool
 
-## KAE0 is a network troubleshooting tool that traces the path packets take from your computer to a target host, similar to the classic traceroute. It sends ICMP packets with increasing Time-To-Live (TTL) values and measures the Round-Trip Time (RTT) for each hop. It also resolves router IPs to hostnames when possible and color-codes RTTs for easy visualization.
+# KAE0 is a network troubleshooting tool that traces the path packets take from your computer to a target host, similar to the classic traceroute. It sends ICMP packets with increasing Time-To-Live (TTL) values and measures the Round-Trip Time (RTT) for each hop. It also resolves router IPs to hostnames when possible and color-codes RTTs for easy visualization.
 **Version:** 01.0
+
+![Traceroute Output](assets/snap.png)
 
 
 Sturcture:
