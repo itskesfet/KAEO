@@ -26,7 +26,7 @@ std::string get_my_ip() {
     sockaddr_in name{};
     socklen_t namelen = sizeof(name);
 
-    if (getsockname(sock, (sockaddr*)&name, &namelen) == -1) { // ✨ Check for error
+    if (getsockname(sock, (sockaddr*)&name, &namelen) == -1) {
         std::cout << "getsockname failed.\n";
         close(sock);
         return "NULL";
